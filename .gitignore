@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.csproj.user
+obj/
+Properties/
+obj/
+Properties/
+obj/
+Properties/
